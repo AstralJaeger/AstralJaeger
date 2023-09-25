@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AstralJaeger
 - 👀 I’m interested in gaming, reading, programming
-- 🌱 I’m currently learning TypeScript, Python, Java, Go and more
+- 🌱 I’m currently learning Rust, TypeScript, Python, Java and more
 - 💞️ I’m looking to collaborate on fun projects
 
 <!---
