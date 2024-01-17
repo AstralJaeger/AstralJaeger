@@ -27,6 +27,20 @@ You can click the Preview link to take a look at your changes.
 
 if you like what i do, maybe consider buying me a [coffee/tea @ Ko-Fi](https://ko-fi.com/astraljaeger)
 
+## My Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go,java,ts,nodejs,python&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,prometheus,rabbitmq,bash,powershell,aws,azure,firebase&theme=dark&perline=5" />
+  </a>
+</p>
+
 ## My Stats
 
 <p align="center">
@@ -40,19 +54,5 @@ if you like what i do, maybe consider buying me a [coffee/tea @ Ko-Fi](https://k
 <p align="center">
   <a href="https://github.com/astraljaeger/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@AstralJAeger" />
-  </a>
-</p>
-
-## My Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,java,ts,nodejs,python&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,prometheus,rabbitmq,bash,powershell,aws,azure,firebase&theme=dark&perline=5" />
   </a>
 </p>
