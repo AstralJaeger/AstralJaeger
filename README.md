@@ -4,10 +4,26 @@ You can click the Preview link to take a look at your changes.
 --->
 # AstralJaeger
 
-[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto://astraljaeger@pm.me)
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/299862332530753537)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/AstralJaeger)
-[![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com/AstralJaeger)
+<p align="center">
+  <!-- TODO: Profile visitors -->
+</p>
+
+<p align="center">
+  <a href="mailto://astraljaeger@pm.me">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+<a href="https://discord.com/users/299862332530753537">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+  </a>
+  <a href="https://github.com/AstralJaeger">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  <a href="https://gitlab.com/AstralJaeger">
+    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" />
+  </a>
+</p>
+
+<!-- TODO: short Bio -->
 
 if you like what i do, maybe consider buying me a [coffee/tea @ Ko-Fi](https://ko-fi.com/astraljaeger)
 
