@@ -45,14 +45,14 @@ if you like what i do, maybe consider buying me a [coffee/tea @ Ko-Fi](https://k
 
 <p align="center">
   <a href="https://github.com/astraljaeger/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=astraljaeger&show_icons=true" />
+    <img src="https://github-readme-stats-two-ruby-98.vercel.app/api?username=astraljaeger&show_icons=true&theme=dark&cache_seconds=21600" />
   </a>
   <a href="https://github.com/astraljaeger/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astraljaeger&show_icons=true&hide=tex,html&langs_count=5&layout=donut" />
+    <img src="https://github-readme-stats-two-ruby-98.vercel.app/api/top-langs/?username=astraljaeger&show_icons=true&hide=tex,html&langs_count=5&layout=donut&theme=dark&cache_seconds=21600" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/astraljaeger/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@AstralJAeger" />
+    <img src="https://github-readme-stats-two-ruby-98.vercel.app/api/wakatime?username=@AstralJAeger&theme=dark&cache_seconds=21600" />
   </a>
 </p>
